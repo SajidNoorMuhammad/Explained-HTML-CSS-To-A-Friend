@@ -1,0 +1,190 @@
+.img1 {
+    width: 50px;
+    height: 18px;
+    float: left;
+}
+
+.container {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.button {
+    color: white;
+    background-color: black;
+    height: 1.5cm;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: none;
+    gap: 30px;
+}
+
+.one {
+    display: flex;
+    justify-content: space-between;
+    /* gap: 350px; */
+}
+
+.img2 {
+    width: 100%;
+    height: 400px;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+.img3 {
+    width: 70px;
+
+}
+
+.three {
+    /* margin-right: 950px; */
+    border-style: groove;
+    width: 100%;
+    padding: 0px;
+    padding: 30px;
+    border-radius: 10px;
+    border: 3px double grey;
+}
+
+.two {
+    margin-top: 5%;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+
+.img4 {
+    float: left;
+}
+
+.five {
+    border-radius: 5px;
+    border: 3px double grey;
+    border-style: groove;
+    width: 100%;
+    padding: 20px;
+    line-height: -10;
+}
+
+.four {
+    justify-content: space-between;
+    display: flex;
+    gap: 30px;
+    width: 100%;
+}
+
+.six {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.but {
+    color: white;
+    background-color: black;
+    position: absolute;
+    right: 35%;
+    margin-top: 2% !important;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+
+.six-six {
+    width: 40%;
+}
+
+.seven-seven {
+    width: 60%;
+    padding: 25px !important;
+    border-radius: 10px;
+    border: 3px double grey;
+}
+
+.image {
+    width: 60px;
+    height: 3cm;
+}
+
+.img9 {
+    width: 50px;
+    height: 30px;
+}
+
+/* .{
+    display: flex;
+} */
+
+.top {
+    margin-left: 25%;
+    margin-top: 1%;
+    position: relative;
+    width: 60%;
+}
+
+
+.pic {
+    font-size: 70px;
+    font-weight: bolder;
+    margin: 0;
+    color: black;
+    -webkit-text-stroke: ipx white;
+}
+
+.mob {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ali {
+    margin-left: 40%;
+    font-weight: normal;
+    text-align: right;
+}
+
+.ali1 {
+    font-weight: normal;
+    text-align: right;
+}
+
+.contain {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.newone {
+    width: 20%;
+    margin-left: 0px;
+}
+
+.second-container {
+    width: 100%;
+    display: flex;
+}
+
+.image-one {
+    width: 50%;
+}
+
+.text-one {
+    width: 50%;
+}
+
+.heading1 {
+    font-size: 20px;
+}
+
+.paragraph1 {
+    font-size: 20px;
+    margin-top: 0;
+    color: grey;
+}
